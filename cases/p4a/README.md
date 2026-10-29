@@ -9,7 +9,7 @@ Follow one retrospective prediction from evidence and instructions through eleve
 ## 01 Evidence
 
 - [Structured quantitative evidence table](01_Evidence/P4A_Structured_Quantitative_Evidence_Table.pdf).
-- **Decision Surface Snapshot: pending release; file not included.**
+- **Public-report DSS proxy—in preparation; file not yet included.** This will be a newly generated public-report version, not the private-report DSS supplied in the experiment. Differences and pagination compatibility with the unchanged structured table will be documented before release.
 
 ## 02 Specification
 
@@ -18,19 +18,21 @@ Follow one retrospective prediction from evidence and instructions through eleve
 
 ## 03 Experimental Records
 
-| Record | Historical role |
-| --- | --- |
-| [OPVAL-P4A-S0-T-E001](03_Experimental_Records/OPVAL-P4A-S0-T-E001.docx) | Qualifying execution |
-| [OPVAL-P4A-S0-T-E002](03_Experimental_Records/OPVAL-P4A-S0-T-E002.docx) | Qualifying execution |
-| [OPVAL-P4A-S0-T-E003](03_Experimental_Records/OPVAL-P4A-S0-T-E003.docx) | Qualifying execution |
-| [OPVAL-P4A-S0-T-E004](03_Experimental_Records/OPVAL-P4A-S0-T-E004.docx) | Qualifying execution |
-| [OPVAL-P4A-S0-T-E005_EXCLUDED](03_Experimental_Records/OPVAL-P4A-S0-T-E005_EXCLUDED.docx) | Excluded; retained for scrutiny |
-| [OPVAL-P4A-S0-T-E006](03_Experimental_Records/OPVAL-P4A-S0-T-E006.docx) | Qualifying execution |
-| [OPVAL-P4A-S0-T-E007](03_Experimental_Records/OPVAL-P4A-S0-T-E007.docx) | Qualifying execution |
-| [OPVAL-P4A-S0-T-E008](03_Experimental_Records/OPVAL-P4A-S0-T-E008.docx) | Qualifying execution |
-| [OPVAL-P4A-S0-T-E009](03_Experimental_Records/OPVAL-P4A-S0-T-E009.docx) | Qualifying execution |
-| [OPVAL-P4A-S0-T-E010](03_Experimental_Records/OPVAL-P4A-S0-T-E010.docx) | Qualifying execution |
-| [OPVAL-P4A-S0-T-E011_REPLACES_E005](03_Experimental_Records/OPVAL-P4A-S0-T-E011_REPLACES_E005.docx) | Excluded; retained for scrutiny |
+PDF copies are reader derivatives exported from the original frozen Word records. They preserve the recorded content but are not the original frozen files. The Word originals remain available alongside each PDF.
+
+| Read PDF copy | Historical role | Original frozen record |
+| --- | --- | --- |
+| [OPVAL-P4A-S0-T-E001](03_Experimental_Records/OPVAL-P4A-S0-T-E001.pdf) | Qualifying execution | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E001.docx) |
+| [OPVAL-P4A-S0-T-E002](03_Experimental_Records/OPVAL-P4A-S0-T-E002.pdf) | Qualifying execution | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E002.docx) |
+| [OPVAL-P4A-S0-T-E003](03_Experimental_Records/OPVAL-P4A-S0-T-E003.pdf) | Qualifying execution | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E003.docx) |
+| [OPVAL-P4A-S0-T-E004](03_Experimental_Records/OPVAL-P4A-S0-T-E004.pdf) | Qualifying execution | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E004.docx) |
+| [OPVAL-P4A-S0-T-E005_EXCLUDED](03_Experimental_Records/OPVAL-P4A-S0-T-E005_EXCLUDED.pdf) | Excluded; retained for scrutiny | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E005_EXCLUDED.docx) |
+| [OPVAL-P4A-S0-T-E006](03_Experimental_Records/OPVAL-P4A-S0-T-E006.pdf) | Qualifying execution | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E006.docx) |
+| [OPVAL-P4A-S0-T-E007](03_Experimental_Records/OPVAL-P4A-S0-T-E007.pdf) | Qualifying execution | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E007.docx) |
+| [OPVAL-P4A-S0-T-E008](03_Experimental_Records/OPVAL-P4A-S0-T-E008.pdf) | Qualifying execution | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E008.docx) |
+| [OPVAL-P4A-S0-T-E009](03_Experimental_Records/OPVAL-P4A-S0-T-E009.pdf) | Qualifying execution | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E009.docx) |
+| [OPVAL-P4A-S0-T-E010](03_Experimental_Records/OPVAL-P4A-S0-T-E010.pdf) | Qualifying execution | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E010.docx) |
+| [OPVAL-P4A-S0-T-E011_REPLACES_E005](03_Experimental_Records/OPVAL-P4A-S0-T-E011_REPLACES_E005.pdf) | Qualifying replacement for E005 | [Download Word](03_Experimental_Records/OPVAL-P4A-S0-T-E011_REPLACES_E005.docx) |
 
 ## 04 Workbook Records
 

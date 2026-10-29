@@ -4,7 +4,7 @@ A real-property valuation laboratory illustrating Decision Function engineering,
 
 **[Open the guided reader](https://dje.truth-machine.org/presentation/read.html)** · [Website overview](https://dje.truth-machine.org/)
 
-This repository offers direct access to the documents and experimental records. The website provides the presentation-led route through the same work. This is the review edition; the Decision Surface Snapshot (DSS) remains withheld pending clarification of release requirements.
+This repository offers direct access to the documents and experimental records. The website provides the presentation-led route through the same work. This is the review edition. A public-report Decision Surface Snapshot (DSS) proxy is being prepared for inspection; the original private-report experimental DSS is not distributed.
 
 ## Choose a route
 
@@ -21,6 +21,6 @@ This repository offers direct access to the documents and experimental records. 
 - The retained P4A structured table, specification, and eleven execution records, including the excluded execution and its replacement.
 - Qualified Records and Registry Records workbooks.
 
-The retained DSS is not included. The P4A case record consists of fourteen original artifacts; thirteen are provided here while the DSS is withheld. The S0 reader PDF is a derived reading copy. Shared workbooks continue the case record at execution, property-ensemble, and population-summary levels.
+The original experimental DSS is not included. The historical P4A case comprises fourteen original artifacts; thirteen are provided here. A separately identified public-report DSS proxy will be added after preparation and comparison with the original, including its pagination and the structured table’s page-guide references. The S0 reader PDF is a derived reading copy. Shared workbooks continue the case record at execution, property-ensemble, and population-summary levels.
 
 The presentation PDF links to the hosted supporting materials. Return to the guided reader at any time using the website links above or the links in the folder guides.
