@@ -9,7 +9,7 @@ Follow one retrospective prediction from evidence and instructions through eleve
 ## 01 Evidence
 
 - [Structured quantitative evidence table](01_Evidence/P4A_Structured_Quantitative_Evidence_Table.pdf).
-- **Public-report DSS proxy—in preparation; file not yet included.** This will be a newly generated public-report version, not the private-report DSS supplied in the experiment. Differences and pagination compatibility with the unchanged structured table will be documented before release.
+- [Public-report DSS](01_Evidence/P4A_DSS_Public_Report.pdf): reviewer copy with P4A outcome redacted, the original property order, and all 124 page positions preserved. The case guide explains why this differs from the private-report DSS supplied to the DF.
 
 ## 02 Specification
 
