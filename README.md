@@ -2,7 +2,7 @@
 
 A real-property valuation laboratory illustrating Decision Function engineering, empirical evidence-state characterization, Quality Control, and governance of autonomous execution.
 
-**[Open the guided reader](https://dje.truth-machine.org/presentation/read.html)** · [Website overview](https://dje.truth-machine.org/)
+**[Open the guided reader](https://dje.truth-machine.org/presentation/read.html#page-1)** · [Website overview](https://dje.truth-machine.org/README.html)
 
 This repository offers direct access to the documents and experimental records. The website provides the presentation-led route through the same work. This is the review edition. The P4A case includes a public-report Decision Surface Snapshot (DSS) for inspection; the original private-report experimental DSS is not distributed.
 
@@ -10,7 +10,7 @@ This repository offers direct access to the documents and experimental records. 
 
 | What you want to inspect | Files here | Guided website |
 | --- | --- | --- |
-| Presentation | [Presentation PDF](presentation/presentation-01.pdf) | [Read the presentation](https://dje.truth-machine.org/presentation/read.html) |
+| Presentation | [Presentation PDF](presentation/presentation-01.pdf) | [Read the presentation](https://dje.truth-machine.org/presentation/read.html#page-1) |
 | Engineering and governance explanations | [Companions and case guide](documents/README.md) | [Conceptual Companions](https://dje.truth-machine.org/documents/README.html) |
 | One end-to-end prediction record | [P4A worked example](cases/p4a/README.md) | [P4A artifact guide](https://dje.truth-machine.org/cases/p4a/README.html) |
 | Underlying numerical records | [Workbooks and worksheet guide](verification/README.md) | [Numerical verification](https://dje.truth-machine.org/verification/README.html) |
