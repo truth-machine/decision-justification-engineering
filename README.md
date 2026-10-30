@@ -1,8 +1,8 @@
-# Decision Justification Engineering
+# Decision Justification Engineering (DJE)
 
 A real-property valuation laboratory illustrating Decision Function engineering, empirical evidence-state characterization, Quality Control, and governance of autonomous execution.
 
-**[Open the guided reader](https://dje.truth-machine.org/presentation/read.html#page-1)** · [Website overview](https://dje.truth-machine.org/README.html)
+**[Open the guided reader](https://dje.truth-machine.org/presentation/read.html#page-1)** · [Evidence & Methods](https://dje.truth-machine.org/README.html)
 
 This repository offers direct access to the documents and experimental records. The website provides the presentation-led route through the same work. This is the review edition. The P4A case includes a public-report Decision Surface Snapshot (DSS) for inspection; the original private-report experimental DSS is not distributed.
 
