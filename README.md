@@ -4,7 +4,7 @@ A real-property valuation laboratory illustrating Decision Function engineering,
 
 **[Open the guided reader](https://dje.truth-machine.org/presentation/read.html#page-1)** · [Evidence & Methods](https://dje.truth-machine.org/README.html)
 
-This repository offers direct access to the documents and experimental records. The website provides the presentation-led route through the same work. This is the review edition. The P4A case includes a public-report Decision Surface Snapshot (DSS) for inspection; the original private-report experimental DSS is not distributed.
+This repository offers direct access to the documents and experimental records. The website provides the presentation-led route through the same work. The P4A case includes a public-report Decision Surface Snapshot (DSS) for inspection; the original private-report experimental DSS is not distributed.
 
 ## Executive Summary
 
@@ -28,3 +28,4 @@ This repository offers direct access to the documents and experimental records. 
 MLS policy does not permit public distribution of the original private-report DSS. The public-report reviewer copy preserves the property population, photographs, and page references; the case guide explains the differences. The S0 reader PDF is a derived reading copy. Shared workbooks continue the case record at execution, property-ensemble, and population-summary levels.
 
 The presentation PDF links to the hosted supporting materials. Return to the guided reader at any time using the website links above or the links in the folder guides.
+
