@@ -6,6 +6,10 @@ A real-property valuation laboratory illustrating Decision Function engineering,
 
 This repository offers direct access to the documents and experimental records. The website provides the presentation-led route through the same work. This is the review edition. The P4A case includes a public-report Decision Surface Snapshot (DSS) for inspection; the original private-report experimental DSS is not distributed.
 
+## Executive Summary
+
+[Read the three-page summary](documents/executive-summary.pdf) · [Open its guided website view](https://dje.truth-machine.org/documents/executive-summary.html)
+
 ## Choose a route
 
 | What you want to inspect | Files here | Guided website |
